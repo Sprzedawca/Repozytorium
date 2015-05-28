@@ -18,14 +18,12 @@ float fib(float n)
 
 main()
 {
-    cout<<"Ciag fibonacciego";
-    cout<<"  \n";
-    cout<<"Podaj n: ";
-    cin>>n;
-    for (x=0;x<n;x++)
-    {
-    cout<<x<<" element rowna sie: "<<fib(x)<<"\n";
-    }
+   /*
 
+
+			wal sie na ryj 
+
+
+   */
 system ("pause");
 }
